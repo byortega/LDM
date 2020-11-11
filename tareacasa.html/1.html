@@ -7,7 +7,7 @@
                 color: beige;
             }
             body{
-                background-image: url(rere.jpg);
+                background-image: url("../../../../Archivos%20de%20trabajo/PABLO%20ORTEGA%20REVILLA/2%20-%20Tarea%20LDM%20HTML%20links%20(p-ldm-2)/rere.jpg");
             }
             td{
                 color: beige;
@@ -22,7 +22,7 @@
             <div id="content">
                 <!--form id="reserva" name="reserva"method="POST"action="MAILTO:reservas@mihotel.com-->
             <fieldset>
-                <form id="reserva" name="reserva"method="POST"action="enviar_form.php">
+                <form id="reserva" name="reserva"method="POST"action="../../../../Archivos%20de%20trabajo/PABLO%20ORTEGA%20REVILLA/2%20-%20Tarea%20LDM%20HTML%20links%20(p-ldm-2)/enviar_form.php">
                     <table border="0" cellspacing="5"
                         <tr>
                             <td width="200px"><label>Nombre</label></td>
@@ -115,7 +115,18 @@
                                 <input type="checkbox" name="opciones"value="supletoria">Cama supletoria</input><br/>
                             </td>
                         </tr>
-
+                        <tr>
+                            <td><label>Comentarios</label></td>
+                            <td>
+                                <textarea name="Comentarios"value="Comentarios" cols="50" rows="10"></textarea><br/>
+                            </td>
+                        </tr>
+                        <tr colspan="2">
+                            <td>
+                                <input type="reset"name="reset"value="limpiar">
+                                <input type="submit"name="submit"value="Enviar el formulario">
+                            </td>
+                        </tr>
                     </fieldset>
     </body>
 </html>
