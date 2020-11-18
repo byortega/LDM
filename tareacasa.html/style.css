@@ -10,3 +10,9 @@ td{
 html{
     background-color: darkgrey;
 }
+#pestudios{
+    color: darkmagenta; font-size: 25px;
+}
+p.tabla1{
+    color: greenyellow; font-size: 25px;
+}
