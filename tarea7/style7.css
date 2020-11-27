@@ -6,11 +6,29 @@ body{
 p.aaa{
     background-color: #b6c2c9;
     color: black;
+    font-family: sans-serif;
 }
 
 p.aa{
     font-size: 50px;
     color: black;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+p.ab{
+    background-color: #b6c2c9;
+    color: black;
+    font-family: sans-serif;
+}
+
+p.bb{
+    background-color: #b6c2c9;
+    color: black;
+    font-family: sans-serif;
 }
 
 h1{
@@ -18,6 +36,7 @@ h1{
    color: #415058;
    text-decoration: underline;
    font-size: 30px;
+   font-family: sans-serif;
 }
 
 h2{
@@ -25,6 +44,7 @@ h2{
     color: #415058;
     text-decoration: underline;
     font-size: 30px;
+    font-family: sans-serif;
 }
 
 
@@ -33,4 +53,33 @@ h3{
     color: #415058;
     text-decoration: underline;
     font-size: 30px;
+    font-family: sans-serif;
+}
+
+
+
+h4{
+    background-color: #b6c2c9;
+    color: #576b75;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+
+p.dd{
+    background-color: white;
+    color: black;
+    text-align: right;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+p.cc{
+    background-color: #b6c2c9;
+    color: black;
+    font-family: sans-serif;
 }
