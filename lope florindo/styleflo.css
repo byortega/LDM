@@ -1,0 +1,82 @@
+.bloque1{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url("manchas.png");
+    background-position:left top ;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.bloque2{
+    background-image: url("fuego.svg"), url("fuego.svg"), url("tallos.jpg");
+    background-position: left bottom, right bottom, left top;
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-size: 50px, 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 5px;
+}
+.bloque3{
+    background-color: green;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 5px;
+    background-image: url("ojo.svg"), url("hexagonos.jpg");
+    background-position: center , left top;
+    background-repeat: no-repeat, repeat;
+}
+.bloque4{
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 25px;
+    background-image: url("caballo.svg"), url("estrellas.png");
+    background-position: bottom, left top;
+    background-repeat: repeat-x, repeat;
+    background-size: 35px;
+    margin-bottom: 30px;
+}
+.bloque{
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+body {
+    background-image: url("corazon-1.svg"), url("corazon-2.svg");
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y;
+    background-size: 50px, 50px;
+    background-color: thistle;
+}
+
+
+p.aa{
+    color: white;
+    font-weight: bold;
+}
+
+p.ab{
+    color: yellow;
+    font-weight: bold;
+}
+
+p.ac{
+    color: rgb(138, 7, 13);
+    font-weight: bold;
+}
+
+p.ad{
+    color: green;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}

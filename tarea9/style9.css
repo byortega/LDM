@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: #05c705;
+    text-align: center;
+    text-decoration: underline #05c705;
+    font-family: "monoton";
+}
+
+
+@font-face{
+    font-family: "monoton";
+    src: url("monoton.woff2");
+}
+
+
+
+
+
+
+.container{
+    background-image: url("matrix.png");
+}
+
+.content{
+    background-color: black;
+    margin-right: 65px;
+    margin-left: 70px;
+}
+
+
+
+.titulo{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    margin-bottom: 20px;
+    background-color: #05c705;
+}
+
+.titulo2{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    margin-bottom: 20px;
+    background-color: #05c705;
+}
+
+.titulo3{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    margin-bottom: 20px;
+    background-color: #05c705;
+}
+
+.contenido{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    background-color: black;
+}
+
+.contenido2{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    background-color: black;
+}
+
+.contenido3{
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    background-color: black; 
+}
