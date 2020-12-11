@@ -1,24 +1,67 @@
+body{
+    background-image: url("chip-arriba.jpg"),url("chip-abajo.jpg");
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y;
+    background-size: 50px, 50px;
+}
+
 h1{
-
+    text-align: center;
 }
 
-
-.content{
-    background-color: white;
-    margin-right: 90px;
-
-}
-.container{
-    background-image: url("chip-abajo.jpg");
+h2{
+    background-color: #0000ff;
+    color: white;
 }
 
-.texto1{
+h3{
+    background-color: #0000ff;
+    color: white;
+}
+
+h4{
     background-color: #0000ff;
     color: white;
 }
 
 
+.imagen{
+    float: left;
+}
+img{
+    width: 110px;
+    height: 140px;
+    margin-right: 10px;
+    margin-left: 15px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    outline:solid;
+    outline-color: rgb(0, 0, 0);
+    outline-width: 1px;
+}
+
 .texto{
+    
+}
+p{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.bloque1{
+    margin-left: 200px;
+    margin-right: 100px;
     background-color: #acdae4;
-    color: black;
+}
+
+.bloque2{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #acdae4;
+}
+
+.bloque3{
+    background-color: #acdae4;
+    margin-left: 100px;
+    margin-right: 100px;
 }
