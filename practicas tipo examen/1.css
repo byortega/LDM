@@ -25,6 +25,11 @@ h4{
 }
 
 
+.imagen2{
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
 .imagen{
     float: left;
 }
@@ -40,6 +45,12 @@ img{
     outline-width: 1px;
 }
 
+
+p.abba{
+margin-left: 100px;
+margin-right: 100px;
+
+}
 .texto{
     
 }
@@ -48,6 +59,17 @@ p{
     margin-bottom: 10px;
 }
 
+
+p.bba{
+    font-style: italic;
+    margin-left: 50px;
+    text-decoration: overline;
+}
+
+p.bbb{
+    font-style: italic;
+    margin-left: 50px;
+}
 .bloque1{
     margin-left: 200px;
     margin-right: 100px;
@@ -64,4 +86,8 @@ p{
     background-color: #acdae4;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+strong{
+    font-size: 20px;
 }
