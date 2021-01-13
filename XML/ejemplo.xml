@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receta>
+    <nombre>sopa de cebolla</nombre>
+    <numero>4</numero>
+    <tipo>comensales</tipo>
+
+    <ingredientes>
+        <ingrediente>
+            <nombre> cebolla</nombre>
+            <cantidad>1</cantidad>
+            <unidad>kilogramos</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>caldo de carne</nombre>
+            <cantidad>2</cantidad>
+            <unidad>litros</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>mantequilla</nombre>
+            <cantidad>100</cantidad>
+            <unidad>gramos</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>harina</nombre>
+            <cantidad>1</cantidad>
+            <unidad>cucharada</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>queso</nombre>
+            <tipo>emmental suizo o gruyére rallado</tipo>
+            <cantidad>100</cantidad>
+            <unidad>gramos</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>pan tostado</nombre>
+            <unidad>rebanadas</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>tomillo</nombre>
+        </ingrediente>
+        <ingrediente>
+            <nombre>laurel</nombre>
+            <cantidad>1</cantidad>
+            <unidad>hoja</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>pimienta</nombre>
+        </ingrediente>
+    </ingredientes>
+
+    <proceso>
+        <paso>
+            <numero>1º</numero>
+            <descripcion>Pelar y partir las cebollas en rodajas finas.</descripcion>
+        </paso>
+        <paso>
+            <numero>2º</numero>
+            <descripcion>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</descripcion>
+        </paso>
+        <paso>
+            <numero>3º</numero>
+            <descripcion>Añadir la harina sin dejar de remover.</descripcion>
+        </paso>
+        <paso>
+            <numero>4º</numero>
+            <descripcion>Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</descripcion>
+        </paso>
+        <paso>
+            <numero>5º</numero>
+            <descripcion>Dejar cocer a fuego lento durante unos 15 minutos.</descripcion>
+        </paso>
+        <paso>
+            <numero>6º</numero>
+            <descripcion>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</descripcion>
+        </paso>
+    </proceso>
+</receta>
