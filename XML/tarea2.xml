@@ -13,7 +13,7 @@
             <direccion>Paseo del Salón, 3, 34002 Palencia</direccion>
             <tipo>cafeteria</tipo>
             <recomendable>si</recomendable>
-            <ubicacion></ubicacion>
+            <ubicacion>"https://www.google.es/maps/place/Cafeter%C3%ADa+Stella/@42.0062424,-4.5302874,20.25z/data=!4m5!3m4!1s0xd47b03774eada77:0xa38a101e221d2748!8m2!3d42.006062!4d-4.5304254"</ubicacion>
         </bar>
         <bar>
             <nombre>chaval de lorenzo</nombre>
@@ -22,7 +22,7 @@
             <direccion>Paseo del Salón, 3, 34002 Palencia</direccion>
             <tipo>restaurante</tipo>
             <recomendable>si</recomendable>
-            <ubicacion></ubicacion>
+            <ubicacion>"https://www.google.es/maps/place/El+Chaval+de+Lorenzo/@42.0062369,-4.5302995,20z/data=!4m5!3m4!1s0xd47b03774b0923d:0x302ddfeaeb117b04!8m2!3d42.0061696!4d-4.5302081"</ubicacion>
         </bar>
         <bar>
             <nombre>asador la encina</nombre>
@@ -31,7 +31,7 @@
             <direccion>Calle Casañé, 2, 34002 Palencia</direccion>
             <tipo>restaurante</tipo>
             <recomendable>si</recomendable>
-            <ubicacion></ubicacion>
+            <ubicacion>"https://www.google.es/maps/place/Restaurante+Asador+La+Encina/@42.0031567,-4.5286434,19z/data=!4m5!3m4!1s0x0:0xd496d7606aa3e4f1!8m2!3d42.0030882!4d-4.5275955"</ubicacion>
         </bar>
         <bar>
             <nombre>pio 12</nombre>
@@ -40,7 +40,7 @@
             <direccion>Plaza Pío XII, 5, 34005 Palencia</direccion>
             <tipo>cerveceria</tipo>
             <recomendable>si</recomendable>
-            <ubicacion></ubicacion>
+            <ubicacion>"https://www.google.es/maps/place/Pio+12+Cervecer%C3%ADa/@42.0049326,-4.530773,19z/data=!4m5!3m4!1s0xd47b0376677186d:0x81430c0d39c939fa!8m2!3d42.0053739!4d-4.5308679"</ubicacion>
         </bar>
         <bar>
             <nombre>El trompicon</nombre>
@@ -49,7 +49,7 @@
             <direccion>Calle Mayor Antigua, 86, 34005 Palencia</direccion>
             <tipo>bar</tipo>
             <recomendable>muy recomendable</recomendable>
-            <ubicacion></ubicacion>
+            <ubicacion>"https://www.google.es/maps/place/Bar+El+Trompic%C3%B3n/@42.0064127,-4.5341617,19z/data=!4m5!3m4!1s0xd47b038592c409b:0x5a54dfdd7d2e669d!8m2!3d42.0070087!4d-4.5339927"</ubicacion>
         </bar>
     </bares>
 
