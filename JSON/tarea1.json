@@ -1,0 +1,75 @@
+{
+    "nombre": "sopa de cebolla",
+    "numero": "4",
+    "tipo": "comensales",
+    "ingredientes":[
+        {
+            "nombre": "cebolla"
+            , "cantidad": "1"
+            ,"unidad": "kilogramo"
+        },
+        {
+            "nombre": "caldo de carne"
+            , "cantidad": "2"
+            ,"unidad": "litros"
+        },
+        {
+            "nombre": "mantequilla"
+            , "cantidad": "100"
+            ,"unidad": "gramos"
+        },
+        {
+            "nombre": "harina"
+            , "cantidad": "1"
+            ,"unidad": "cucharada"
+        },
+        {
+            "nombre": "cebolla"
+            ,"tipo": "emmental suizo o gruyére rallado"
+            , "cantidad": "100"
+            ,"unidad": "gramos"
+        },
+        {
+            "nombre": "pan tostado"
+            ,"unidad": "rebanadas"
+        },
+        {
+            "nombre": "tomillo"
+        },
+        {
+            "nombre": "laurel"
+            , "cantidad": "1"
+            ,"unidad": "hoja"
+        },
+        {
+            "nombre": "pimienta"
+        }
+    ],
+
+    "proceso":[
+        {
+            "numero": "1º"
+            , "descripcion": "Pelar y partir las cebollas en rodajas finas"
+        },
+        {
+            "numero": "2º"
+            , "descripcion": "Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse"
+        },
+        {
+            "numero": "3º"
+            , "descripcion": "Añadir la harina sin dejar de remover"
+        },
+        {
+            "numero": "4º"
+            , "descripcion": "Ponerlo en una cazuela con el caldo, el tomillo y el laurel"
+        },
+        {
+            "numero": "5º"
+            , "descripcion": "Dejar cocer a fuego lento durante unos 15 minutos"
+        },
+        {
+            "numero": "6º"
+            , "descripcion": "Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno"
+        }
+    ]
+}

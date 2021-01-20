@@ -1,0 +1,88 @@
+{
+    "nombre": "Palencia",
+    "comunidad": "castilla y leon",
+    "pais": "España",
+    "habitantes": "75.000",
+    "bares":[
+        {
+            "nombre": "Stella",
+            "economico": "medio",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Paseo del Salón, 3, 34002 Palencia",
+            "tipo": "cafeteria",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Cafeter%C3%ADa+Stella/@42.0062424,-4.5302874,20.25z/data=!4m5!3m4!1s0xd47b03774eada77:0xa38a101e221d2748!8m2!3d42.006062!4d-4.5304254"
+        },
+        {
+            "nombre": "chaval de lorenzo",
+            "economico": "si",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Paseo del Salón, 3, 34002 Palencia",
+            "tipo": "restaurante",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/El+Chaval+de+Lorenzo/@42.0062369,-4.5302995,20z/data=!4m5!3m4!1s0xd47b03774b0923d:0x302ddfeaeb117b04!8m2!3d42.0061696!4d-4.5302081"
+        },
+        {
+            "nombre": "asador la encina",
+            "economico": "medio",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Calle Casañé, 2, 34002 Palencia",
+            "tipo": "restaurante",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Restaurante+Asador+La+Encina/@42.0031567,-4.5286434,19z/data=!4m5!3m4!1s0x0:0xd496d7606aa3e4f1!8m2!3d42.0030882!4d-4.5275955"
+        },
+        {
+            "nombre": "pio 12",
+            "economico": "si",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Plaza Pío XII, 5, 34005 Palencia",
+            "tipo": "cerveceria",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Pio+12+Cervecer%C3%ADa/@42.0049326,-4.530773,19z/data=!4m5!3m4!1s0xd47b0376677186d:0x81430c0d39c939fa!8m2!3d42.0053739!4d-4.5308679"
+        },
+        {
+            "nombre": "pio 12",
+            "economico": "si",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Plaza Pío XII, 5, 34005 Palencia",
+            "tipo": "cerveceria",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Pio+12+Cervecer%C3%ADa/@42.005486,-4.531348,19z/data=!4m5!3m4!1s0xd47b0376677186d:0x81430c0d39c939fa!8m2!3d42.0053739!4d-4.5308679"
+        },
+        {
+            "nombre": "El trompicon",
+            "economico": "si",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Calle Mayor Antigua, 86, 34005 Palencia",
+            "tipo": "bar",
+            "recomendable": "muy recomendable",
+            "ubicacion": "https://www.google.es/maps/place/Bar+El+Trompic%C3%B3n/@42.0064127,-4.5341617,19z/data=!4m5!3m4!1s0xd47b038592c409b:0x5a54dfdd7d2e669d!8m2!3d42.0070087!4d-4.5339927"
+        }
+    ],
+    "lugares de ocio":[
+        {
+            "nombre": "catedral de San Antolin",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Plaza de la Inmaculada, s/n, 34005 Palencia",
+            "tipo": "catedral",
+            "recomendable": "si",
+            "ubicacion":"https://www.google.es/maps/place/Catedral+de+San+Antol%C3%ADn+de+Palencia/@42.0036087,-4.5263672,14.25z/data=!4m5!3m4!1s0xd47b0412bf18157:0xace2b62af88d642a!8m2!3d42.0112074!4d-4.5372623"
+        },
+        {
+            "nombre": "centro cormecial las huertas",
+            "adaptacion movilidad reducida": "si",
+            "direccion": "Av. de Madrid, 37, 34004 Palencia",
+            "tipo": "centro comercial",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Parking+C.C.+Las+Huertas/@41.9914683,-4.5174552,18.25z/data=!4m5!3m4!1s0xd47b1d5bc3a5e91:0x2d634b334382677c!8m2!3d41.9909457!4d-4.5177016"
+        },
+        {
+            "nombre": "mirador palencia",
+            "adaptacion movilidad reducida": "no",
+            "direccion": "Carretera Caracol, 73, 34191 Palencia",
+            "tipo": "mirador",
+            "recomendable": "si",
+            "ubicacion": "https://www.google.es/maps/place/Mirador+de+Palencia/@41.9835736,-4.5598323,15z/data=!4m5!3m4!1s0xd47afefaf6eabad:0x3f69feb2af4cb630!8m2!3d41.9764354!4d-4.5499733"
+        }
+    ]
+}

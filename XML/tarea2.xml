@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudad>
+    <nombre>Palencia</nombre>
+    <comunidad>Castilla y Leon</comunidad>
+    <pais>España</pais>
+    <habitantes>75.000</habitantes>
+
+    <bares>
+        <bar>
+            <nombre>Stella</nombre>
+            <economico>medio</economico>
+            <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
+            <direccion>Paseo del Salón, 3, 34002 Palencia</direccion>
+            <tipo>cafeteria</tipo>
+            <recomendable>si</recomendable>
+            <ubicacion></ubicacion>
+        </bar>
+        <bar>
+            <nombre>chaval de lorenzo</nombre>
+            <economico>si</economico>
+            <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
+            <direccion>Paseo del Salón, 3, 34002 Palencia</direccion>
+            <tipo></tipo>
+            <recomendable></recomendable>
+            <ubicacion></ubicacion>
+        </bar>
+        <bar>
+            <nombre></nombre>
+            <economico></economico>
+            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
+            <direccion></direccion>
+            <tipo></tipo>
+            <recomendable></recomendable>
+            <ubicacion></ubicacion>
+        </bar>
+        <bar>
+            <nombre></nombre>
+            <economico></economico>
+            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
+            <direccion></direccion>
+            <tipo></tipo>
+            <recomendable></recomendable>
+            <ubicacion></ubicacion>
+        </bar>
+        <bar>
+            <nombre></nombre>
+            <economico></economico>
+            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
+            <direccion></direccion>
+            <tipo></tipo>
+            <recomendable></recomendable>
+            <ubicacion></ubicacion>
+        </bar>
+    </bares>
+</ciudad>
