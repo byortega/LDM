@@ -20,36 +20,47 @@
             <economico>si</economico>
             <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
             <direccion>Paseo del Salón, 3, 34002 Palencia</direccion>
-            <tipo></tipo>
-            <recomendable></recomendable>
+            <tipo>restaurante</tipo>
+            <recomendable>si</recomendable>
             <ubicacion></ubicacion>
         </bar>
         <bar>
-            <nombre></nombre>
-            <economico></economico>
-            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
-            <direccion></direccion>
-            <tipo></tipo>
-            <recomendable></recomendable>
+            <nombre>asador la encina</nombre>
+            <economico>medio</economico>
+            <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
+            <direccion>Calle Casañé, 2, 34002 Palencia</direccion>
+            <tipo>restaurante</tipo>
+            <recomendable>si</recomendable>
             <ubicacion></ubicacion>
         </bar>
         <bar>
-            <nombre></nombre>
-            <economico></economico>
-            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
-            <direccion></direccion>
-            <tipo></tipo>
-            <recomendable></recomendable>
+            <nombre>pio 12</nombre>
+            <economico>si</economico>
+            <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
+            <direccion>Plaza Pío XII, 5, 34005 Palencia</direccion>
+            <tipo>cerveceria</tipo>
+            <recomendable>si</recomendable>
             <ubicacion></ubicacion>
         </bar>
         <bar>
-            <nombre></nombre>
-            <economico></economico>
-            <adaptacionmovilidadreducida></adaptacionmovilidadreducida>
-            <direccion></direccion>
-            <tipo></tipo>
-            <recomendable></recomendable>
+            <nombre>El trompicon</nombre>
+            <economico>si</economico>
+            <adaptacionmovilidadreducida>no</adaptacionmovilidadreducida>
+            <direccion>Calle Mayor Antigua, 86, 34005 Palencia</direccion>
+            <tipo>bar</tipo>
+            <recomendable>muy recomendable</recomendable>
             <ubicacion></ubicacion>
         </bar>
     </bares>
+
+    <lugaresdeocio>
+        <lugar>
+            <nombre></nombre>
+            <adaptaciónmovilidadreducida></adaptacionmovilidadreducida>
+            <Direccion></Direccion>
+            <Tipo></Tipo>
+            <Recomendable></Recomendable>
+            <Ubicacion></Ubicacion>
+        </lugar>
+    </lugaresdeocio>
 </ciudad>
