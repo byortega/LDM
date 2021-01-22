@@ -1,0 +1,5 @@
+<!ELEMENT receta (titulo, ingrediente,procedimientos)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ELEMENT procedimientos (procedimiento*)>
+<!ELEMENT procedimiento (#PCDATA)>

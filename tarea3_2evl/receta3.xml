@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE receta SYSTEM "receta3.dtd">
+
+<receta>
+    <titulo>albondigas con tomate</titulo>
+    <ingredientes>
+        <ingrediente>albondigas</ingrediente>
+        <ingrediente>tomate</ingrediente>
+    </ingredientes>
+    <procedimientos>
+        <procedimiento>hechamos las albondigas en un cazo</procedimiento>
+        <procedimiento>las cocinamos</procedimiento>
+        <procedimiento>hechamos el tomate sobre las albondigas</procedimiento>
+        <procedimiento>las servimos</procedimiento>
+    </procedimientos>
+</receta>

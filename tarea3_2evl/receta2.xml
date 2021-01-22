@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE receta SYSTEM "receta2.dtd">
+
+<receta>
+    <parrafo>receta numero 2</parrafo>
+    <titulo>alubias verdes con patatas</titulo>
+    <ingredientes>
+        <ingrediente>alubias</ingrediente>
+        <ingrediente>patatas</ingrediente>
+        <ingrediente>sal</ingrediente>
+    </ingredientes>
+    <procedimientos>
+        <procedimiento>hechamos las alubias</procedimiento>
+        <procedimiento>pelamos las patatas </procedimiento>
+        <procedimiento>las poenmos a cocinar</procedimiento>
+        <procedimiento>servimos el plato</procedimiento>
+    </procedimientos>
+</receta>
