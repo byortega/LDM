@@ -55,12 +55,28 @@
 
     <lugaresdeocio>
         <lugar>
-            <nombre></nombre>
-            <adaptaciónmovilidadreducida></adaptacionmovilidadreducida>
-            <Direccion></Direccion>
-            <Tipo></Tipo>
-            <Recomendable></Recomendable>
-            <Ubicacion></Ubicacion>
+            <nombre>catedral de San Antolin</nombre>
+            <adaptaciónmovilidadreducida>no</adaptacionmovilidadreducida>
+            <Direccion>Plaza de la Inmaculada, s/n, 34005 Palencia</Direccion>
+            <Tipo>religioso</Tipo>
+            <Recomendable>si</Recomendable>
+            <Ubicacion>"https://www.google.es/maps/place/Catedral+de+San+Antol%C3%ADn+de+Palencia/@42.0036087,-4.5263672,14.25z/data=!4m5!3m4!1s0xd47b0412bf18157:0xace2b62af88d642a!8m2!3d42.0112074!4d-4.5372623"</Ubicacion>
+        </lugar>
+         <lugar>
+            <nombre>centro cormecial las huertas</nombre>
+            <adaptaciónmovilidadreducida>si</adaptacionmovilidadreducida>
+            <Direccion>Av. de Madrid, 37, 34004 Palencia</Direccion>
+            <Tipo>centro comercial</Tipo>
+            <Recomendable>si</Recomendable>
+            <Ubicacion>"https://www.google.es/maps/place/Parking+C.C.+Las+Huertas/@41.9914683,-4.5174552,18.25z/data=!4m5!3m4!1s0xd47b1d5bc3a5e91:0x2d634b334382677c!8m2!3d41.9909457!4d-4.5177016"</Ubicacion>
+        </lugar>
+         <lugar>
+            <nombre>mirador palencia</nombre>
+            <adaptaciónmovilidadreducida>no</adaptacionmovilidadreducida>
+            <Direccion>Carretera Caracol, 73, 34191 Palencia</Direccion>
+            <Tipo>mirador</Tipo>
+            <Recomendable>si</Recomendable>
+            <Ubicacion>"https://www.google.es/maps/place/Mirador+de+Palencia/@41.9835736,-4.5598323,15z/data=!4m5!3m4!1s0xd47afefaf6eabad:0x3f69feb2af4cb630!8m2!3d41.9764354!4d-4.5499733"</Ubicacion>
         </lugar>
     </lugaresdeocio>
 </ciudad>
