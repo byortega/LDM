@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE aviso SYSTEM "aviso.dtd">
+
+<aviso>
+    <titulo>normas de conduccion</titulo>
+    <parrafos>
+        <parrafo>norma de stop</parrafo>
+        <parrafo>norma de ceda el paso</parrafo>
+    </parrafos>
+    <graficos>
+        <grafico>fondo rojo, con lestras stop</grafico>
+        <grafico>fondo rojo con triangulo blanco</grafico>
+    </graficos>
+</aviso>

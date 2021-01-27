@@ -1,0 +1,6 @@
+<!ELEMENT aviso (titulo, parrafos,graficos)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafos (parrafo*)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT graficos (grafico*)>
+<!ELEMENT grafico (#PCDATA)>
