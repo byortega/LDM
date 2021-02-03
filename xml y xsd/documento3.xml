@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE lista_personas>
+
+<lista_personas     
+    xmlns="https://www.w3schools.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.w3schools.com/xml note.xsd">
+    <persona>
+        <nombre>Antonio Moreno</nombre>
+        <fecha_nacimiento>27-11-2008</fecha_nacimiento>
+        <sexo>Varón</sexo>
+    </persona>
+</lista_personas>
