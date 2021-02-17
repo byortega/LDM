@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>Receta sopa de Cebolla</title>
+  </head>
+
+  <body>
+    <div id="app" class="container">
+        <div class="alert alert-info" role="alert">
+            <h1>informacion sobre la receta:</h1>
+            <ul>
+              <li>nombre: {{jsonObject.nombre}}</li>
+              <li>numero: {{jsonObject.numero}}</li>
+              <li>tipo: {{jsonObject.tipo}}</li>  
+          </div>
+    
+        <h2>INGREDIENTES</h2>
+        <table class="table-info">
+            <thead>
+                <tr>
+                    <th scope="col" style="color: mediumpurple;">nombre</th>
+                    <th scope="col" style="color: mediumpurple;">cantidad</th>
+                    <th scope="col" style="color: mediumpurple;">unidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="receta in jsonObject.ingredientes">
+                    <td>{{receta.nombre}}</td>
+                    <td v-if="receta.cantidad <100"><b>{{receta.cantidad}}</b></td>
+                    <td v-else style="color: red;">{{receta.cantidad}}</td>
+                    <td>{{receta.unidad}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>PROCESO</h3>
+        <table class="table-info">
+            <thead>
+                <tr>
+                    <th scope="col">numero</th>
+                    <th scope="col">descripcion</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="procesos in jsonObject.proceso">
+                    <td style="color: rgb(255, 0, 0);">{{procesos.numero}}</td>
+                    <td>{{procesos.descripcion}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <script>
+
+      const App = new Vue({        
+        el: '#app',
+        data: {
+          jsonObject: {}
+        },
+        methods: {
+            init() {
+              fetch("https://raw.githubusercontent.com/byortega/LDM/master/JSON/tarea1.json")
+              .then(response => response.json())
+              .then(data => (this.jsonObject = data));
+            }
+        },
+        mounted(){
+            this.init()
+        }
+      })
+    </script>
+  </body>
+</html>
