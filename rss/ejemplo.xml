@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    <!--informacion del canal-->
+        <title>5 noticias del pais</title>
+        <description>recopilacion de 5 noticias periodico del pais</description>
+        <link>https://elpais.com/</link>
+    <!--items-->
+    <item>
+        <title>La lentitud en las campañas de vacunación obliga a Europa a mantener las restricciones en los viajes</title>
+        <description>vacuna</description>
+        <link>https://elpais.com/sociedad/2021-02-24/la-lentitud-en-las-campanas-de-vacunacion-obliga-a-europa-a-mantener-las-restricciones-en-los-viajes.html</link>
+    </item>
+    <item>
+        <title>Sánchez anuncia 11.000 millones para hostelería y turismo sin detallar ni el calendario ni el formato de las ayudas</title>
+        <description>dinero</description>
+        <link>https://elpais.com/economia/2021-02-24/sanchez-anuncia-ayudas-por-11000-millones-de-euros-para-hosteleria-y-turismo.html</link>
+        
+    </item>
+    <item>
+        <title>La UE toma la iniciativa para lograr más transparencia en los impuestos que pagan las multinacionales</title>
+        <description>ue</description>
+        <link>https://elpais.com/economia/2021-02-24/la-ue-toma-la-iniciativa-para-lograr-mas-transparencia-en-los-impuestos-que-pagan-las-multinacionales.html</link>
+    </item>
+    <item>
+        <title>Un informe policial da oxígeno a Podemos en la investigación del ‘caso Neurona’</title>
+        <description>neurona</description>
+        <link>https://elpais.com/espana/2021-02-24/un-informe-policial-concluye-que-los-videos-del-caso-neurona-se-crearon-en-plena-campana-electoral.html</link>
+    </item>
+    <item>
+        <title>Una lección ética en los Países Bajos</title>
+        <description>paises bajos</description>
+        <link>https://elpais.com/eps/2021-02-21/una-leccion-etica-en-los-paises-bajos.html</link>
+    </item>
+    </channel>
+</rss>
