@@ -14,3 +14,25 @@
     <pais>España</pais>
     <codigo>39343</codigo>
 </etiqueta>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<sudoku>
+        <dato celda="A2" valor="1"/>
+        <dato celda="B2" valor="2"/>
+        <dato celda="A3" valor="3"/>
+        <dato celda="D4" valor="1"/>
+    </sudoku>

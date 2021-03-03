@@ -1,0 +1,16 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<!DOCTYPE sudokus [ 
+<!ELEMENT sudokus (tamaño)>
+<!ELEMENT tamaño (sudokutamaño+,solucion)>
+<!ELEMENT sudokutamaño (#PCDATA)>
+<!ELEMENT solucion (#PCDATA)>
+
+
+]>
+<sudokus>
+    <tamaño>
+        <sudokutamaño>4x4</sudokutamaño> 
+        <sudokutamaño>4x4</sudokutamaño> 
+        <solucion>1</solucion>
+    </tamaño>    
+</sudokus>
